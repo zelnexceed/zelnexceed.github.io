@@ -596,8 +596,15 @@ a {
 .email-address {
   position: absolute;
   top: 0;
-  left: 56px;
+  left: 88px;
   color: #f6358a;
+}
+
+.ggmail {
+  position: relative;
+  top: 43px;
+  left: 48px;
+  color: var(--color-lightskyblue);
 }
 
 .ellipse-parent, .email-address-parent {
