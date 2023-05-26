@@ -550,15 +550,16 @@ a {
   height: 62px;
 }
 
-.full-name, .jose-justin {
+.full-name{
   position: absolute;
   top: 0;
-  left: 5px;
+  left: 24px;
 }
 
 .jose-justin {
+  position: absolute;
   top: 43px;
-  left: 0;
+  left: 16px;
   color: var(--color-lightskyblue);
 }
 
