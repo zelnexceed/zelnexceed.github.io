@@ -639,8 +639,15 @@ a {
 .instagram {
   position: absolute;
   top: 0;
-  left: 36px;
+  left: 48px;
   color: #f6358a;
+}
+
+.iinstagram {
+  position: relative;
+  top: 43px;
+  left: 24px;
+  color: var(--color-lightskyblue);
 }
 
 .ellipse-group, .instagram-parent {
