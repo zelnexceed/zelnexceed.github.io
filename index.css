@@ -323,7 +323,7 @@ a {
 
 .financial-advisor-child {
   position: absolute;
-  top: 26px;
+  top: 10px;
   left: 0;
   width: 68px;
   height: 68px;
@@ -353,7 +353,7 @@ a {
 }
 
 .copywriting3 {
-  top: 0;
+  top: 10px;
   font-size: var(--font-size-21xl);
   font-family: var(--font-satisfy);
   color: var(--color-darkgray);
@@ -377,7 +377,7 @@ a {
 }
 
 .copywriting2 {
-  top: 621px;
+  top: 612px;
   left: 1149px;
   width: 525px;
   height: 137px;
@@ -399,7 +399,7 @@ a {
 
 .ghostwriting3 {
   top: 0;
-  left: 69px;
+  left: 178px;
   font-size: var(--font-size-21xl);
   font-family: var(--font-satisfy);
   color: var(--color-darkgray);
@@ -428,6 +428,18 @@ a {
   width: 522px;
   height: 185px;
   text-align: right;
+}
+
+.ttranslation{
+  position: absolute;
+  display: flex;
+  align-items: center;
+  top: 0;
+  left: 204px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-satisfy);
+  color: var(--color-darkgray);
+  width: 374px;
 }
 
 .native-fluency-in {
