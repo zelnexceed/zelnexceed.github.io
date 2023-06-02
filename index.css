@@ -552,12 +552,12 @@ a {
   mix-blend-mode: overlay;
 }
 
-.born-amongst-the, .short-prologue {
+.introduction, .short-prologue {
   position: absolute;
   text-align: center;
 }
 
-.born-amongst-the {
+.introduction {
   top: 385px;
   left: 526px;
   font-size: var(--font-size-13xl);
