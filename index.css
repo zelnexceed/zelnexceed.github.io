@@ -77,6 +77,36 @@ a {
   height: 41.67px;
 }
 
+.copywriting1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 35px;
+  display: inline-block;
+  width: 200px;
+  height: 41.67px;
+}
+
+.translation1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 35px;
+  display: inline-block;
+  width: 200px;
+  height: 41.67px;
+}
+
+.coding1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 35px;
+  display: inline-block;
+  width: 200px;
+  height: 41.67px;
+}
+
 .div {
   top: 0.32px;
   left: 616px;
@@ -85,7 +115,7 @@ a {
   height: 51px;
 }
 
-.ghostwriting-child, .ghostwriting-inner, .ghostwriting-item {
+.child, .ghostwriting-inner, .item {
   position: absolute;
   top: 55px;
   left: 0;
@@ -95,7 +125,7 @@ a {
   height: 25px;
 }
 
-.ghostwriting-inner, .ghostwriting-item {
+.ghostwriting-inner, .item {
   top: 58.33px;
   left: 1.66px;
   background-color: var(--color-gray-100);
@@ -157,7 +187,7 @@ a {
   height: 12px;
 }
 
-.div3, .financial-advisors {
+.div1, .financial-advisors {
   position: absolute;
   top: 826.68px;
   left: 227px;
@@ -165,7 +195,7 @@ a {
   height: 80px;
 }
 
-.div3 {
+.div1 {
   top: 0;
   left: 614px;
   line-height: 35px;
