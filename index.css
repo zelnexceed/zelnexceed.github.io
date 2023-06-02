@@ -292,7 +292,7 @@ a {
   mix-blend-mode: hard-light;
 }
 
-.backcground-parent, .background-item {
+.backcground-parent, .fancy-handphone {
   position: absolute;
   left: 0;
   width: 1920px;
@@ -305,7 +305,7 @@ a {
   color: var(--color-white);
 }
 
-.background-item {
+.fancy-handphone {
   top: 0;
   background-color: var(--color-black);
   opacity: 0.85;
@@ -326,14 +326,14 @@ a {
   object-fit: cover;
 }
 
-.financial-advisor1, .my-expertise-are {
+.financial-advisor1, .longdesc-financial-advisor {
   position: absolute;
   left: 0;
   display: flex;
   align-items: center;
 }
 
-.my-expertise-are {
+.longdesc-financial-advisor {
   top: 73px;
   width: 443px;
   height: 60px;
@@ -347,7 +347,7 @@ a {
   width: 371px;
 }
 
-.my-expertise-are-especially-on-parent {
+.desc-financial-advisor {
   position: absolute;
   top: 0;
   left: 82px;
@@ -372,14 +372,14 @@ a {
   font-family: Lato;
 }
 
-.copywriting3, .lack-of-inspiration {
+.copywriting3, .longdesc-copywriting {
   position: absolute;
   left: 0;
   display: flex;
   align-items: center;
 }
 
-.lack-of-inspiration {
+.longdesc-copywriting {
   top: 77px;
   width: 443px;
   height: 60px;
@@ -394,7 +394,7 @@ a {
   width: 287px;
 }
 
-.lack-of-inspiration-can-someti-parent {
+.desc-copywriting {
   position: absolute;
   top: 0;
   left: 82px;
@@ -417,13 +417,13 @@ a {
   height: 137px;
 }
 
-.ghostwriting3, .idea-generating-capability-has {
+.ghostwriting3, .longdesc-ghostwriting {
   position: absolute;
   display: flex;
   align-items: center;
 }
 
-.idea-generating-capability-has {
+.longdesc-ghostwriting {
   top: 13px;
   left: 0;
   width: 443px;
@@ -440,7 +440,7 @@ a {
   width: 374px;
 }
 
-.idea-generating-capability-has-parent {
+.desc-ghostwriting {
   position: absolute;
   top: 0;
   left: 0;
@@ -476,7 +476,7 @@ a {
   width: 374px;
 }
 
-.native-fluency-in {
+.longdesc-translation {
   position: absolute;
   top: 36px;
   left: 0;
@@ -495,7 +495,7 @@ a {
   height: 152px;
 }
 
-.native-fluency-in-at-least-3-l-parent{
+.desc-translation{
   width: 443px;
   height: 152px;
   top: 1px;
