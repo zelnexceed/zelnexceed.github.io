@@ -878,7 +878,6 @@ a {
   position: absolute;
   top: 0;
   left: 0;
-  border-radius: var(--br-mini);
   background-color: var(--color-black);
   width: 1920px;
   height: 1080px;
