@@ -67,37 +67,7 @@ a {
   text-align: center;
 }
 
-.div, .ghostwriting1 {
-  position: absolute;
-  top: 0;
-  left: 0;
-  line-height: 35px;
-  display: inline-block;
-  width: 200px;
-  height: 41.67px;
-}
-
-.copywriting1 {
-  position: absolute;
-  top: 0;
-  left: 0;
-  line-height: 35px;
-  display: inline-block;
-  width: 200px;
-  height: 41.67px;
-}
-
-.translation1 {
-  position: absolute;
-  top: 0;
-  left: 0;
-  line-height: 35px;
-  display: inline-block;
-  width: 200px;
-  height: 41.67px;
-}
-
-.coding1 {
+.div, .ghostwriting1, .copywriting1, .translation1, .coding1 {
   position: absolute;
   top: 0;
   left: 0;
