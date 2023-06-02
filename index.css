@@ -862,6 +862,7 @@ a {
 }
 
 .ig-icon, .wa-icon {
+  border-radius: 8px;
   position: absolute;
   top: 975px;
   left: 965px;
