@@ -35,6 +35,10 @@ a {
   text-decoration: none;
 }
 
+.zelnexceed, .zelnexceed1, .zelnexceed2, .zelnexceed3{
+  transition: ease-in-out;
+}
+
 .backcground-child {
   position: absolute;
   top: 0;
