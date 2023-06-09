@@ -1,8 +1,6 @@
 html{
   scroll-behavior: smooth;
   zoom: 0.69; 
-  -moz-transform: scale(2); 
-  -moz-transform-origin: 0 0;
 }
 
 li {
